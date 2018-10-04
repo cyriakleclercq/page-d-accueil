@@ -1,13 +1,15 @@
 body {
-    background-image: url(http://podensac.fr/upload/fond_ecran/degrade-bleu2.jpg);
-    font-family: "Georgia";
+    background-color:#BCACFF;
+    font-family: "Alef";
 }
 h1 {
 
     text-align: center;
-    color: #9EFFFA;
+    color: orangered;
     font-size: 50px;
     text-decoration: underline black;
+    font-family: Georgia;
+    line-height: 1.2em;
 }
 
 h2 {
@@ -15,6 +17,7 @@ h2 {
     font-size: 40px;
     color: #9EFFFA;
     text-decoration: underline black;
+    font-family: Georgia;
 }
 
 #profil {
