@@ -1,0 +1,106 @@
+body {
+    background-image: url(http://podensac.fr/upload/fond_ecran/degrade-bleu2.jpg);
+    font-family: "Georgia";
+}
+h1 {
+
+    text-align: center;
+    color: #9EFFFA;
+    font-size: 50px;
+    text-decoration: underline black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    color: #9EFFFA;
+    text-decoration: underline black;
+}
+
+#profil {
+    height: 200px;
+    width: 200px;
+    border: black solid 3px;
+    position:absolute;
+    top: 40px;
+    left: 80px;
+}
+
+p {
+    position:absolute;
+    left: 20%;
+    top: 30%;
+    text-align:center;
+    font-size: 20px;
+}
+
+h3 {
+    position: absolute;
+    top: 45%;
+    font-size: 35px ;
+    color: #9EFFFA;
+}
+
+#titre1 {
+    left: 8%;
+}
+
+#titre2 {
+    left: 36%;
+}
+
+#titre3 {
+    right: 6%;
+}
+
+ul {
+    position: absolute;
+    top: 55%;
+    font-size: 20px;
+}
+
+#thème1 {
+    left:8%;
+}
+
+#thème2 {
+    left: 37%;
+}
+
+#thème3 {
+    right: 13%;
+}
+
+#id1 {
+    position:absolute;
+    top: 85%;
+    left: 8%;
+}
+
+#id2 {
+    position: absolute;
+    top: 85%;
+    left: 15%;
+}
+
+#id3 {
+    position: absolute;
+    top: 85%;
+    left: 22%;
+}
+#twitter {
+    height: 90px;
+    width: 90px;
+}
+
+#linkedin {
+    height: 90px;
+    width: 90px;
+}
+
+#github {
+    height: 90px;
+    width: 90px;
+}
+
+
