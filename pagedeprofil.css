@@ -1,6 +1,7 @@
 body {
-    background-color:#BCACFF;
-    font-family: "Alef";
+    background-image: url(http://podensac.fr/upload/fond_ecran/degrade-bleu2.jpg);
+:#BCACFF;
+    font-family: "Georgia";
     position: relative;
 }
 div {
@@ -12,7 +13,7 @@ div {
 h1 {
 
     text-align: center;
-    color: orangered;
+    color: #9EFFFA;
     font-size: 50px;
     text-decoration: underline black;
 }
@@ -112,15 +113,22 @@ ul {
 #linkedin {
     height: 90px;
     width: 90px;
+    padding-left: 2%;
 }
 
 #github {
     height: 90px;
     width: 90px;
+    padding-left: 2%;
 }
 
 img {
     display: inline-block;
-
-
 }
+
+#Pbouton {
+    position: relative;
+    margin-top: 3%;
+}
+
+
