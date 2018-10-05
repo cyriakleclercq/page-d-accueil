@@ -56,14 +56,14 @@ h3 {
 #titre2 {
     left: 36%;
     display: inline-block;
-    width:33%;
+    width:32%;
     text-align: center;
 }
 
 #titre3 {
     right: 6%;
     display: inline-block;
-    width: 33%;
+    width: auto;
     text-align: center;
 }
 
